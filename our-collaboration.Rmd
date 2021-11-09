@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hi Erin! I really like your sweater. 
+
+Hi Allison, thanks! I got it a long time ago 
