@@ -14,7 +14,7 @@ Hi Erin! I really like your sweater.
 Hi Allison, thanks! I got it a long time ago 
 
 ```{r task1}
-hist(cars$distance)
+mean_value <- mean(cars$dist)
 ```
 
 
